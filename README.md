@@ -1,4 +1,4 @@
-# Airbnb pricing analysis
+# Airbnb price analysis
 
 In this notebook, we will work on Airbnb data.
 The objective will be to load the data, clean and format it, before exploring and analyzing it.
